@@ -1,6 +1,6 @@
 <?php
 echo "Copyright (c), tous les droits sont réservés à Aymeric Leger Achard.<br/>";
-echo "Dépôt Git : https://github.com/AGL87/LP3-L311/s2";
+echo "Dépôt Git : https://github.com/AGL87/LP3-L311/tree/master/s2";
 
 //
 // OS information
